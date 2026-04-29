@@ -1,7 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Shree Chandru R</h3>
 <h3>Register Number: 212224230264</h3>
-
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -87,9 +86,6 @@ if __name__ == "__main__":
     main()
 ```
 ## output
-
 <img width="751" height="757" alt="Screenshot 2026-04-28 111950" src="https://github.com/user-attachments/assets/aa7d173d-47a2-4353-8a72-cad84757b5c3" />
-
-
 ## Result 
   Thus the developing AI Agent with PEAS Description was implemented using Python Programming Successfully.
